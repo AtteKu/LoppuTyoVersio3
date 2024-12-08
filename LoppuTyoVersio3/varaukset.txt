@@ -1,0 +1,15 @@
+Varausnumero Huonenumero Varaajannimi Yot Hinta
+33390 2 "pertti pena" 2 160
+17564 93 "atte" 2 180
+27217 186 "pernna" 2 240
+41348 110 "pentti" 3 270
+14664 112 "pentti" 3 450
+24672 57 "P„rnill„" 2 160
+33240 6 "keijo" 2 200
+32525 54 "keijo" 2 270
+26292 252 "pepe" 3 405
+24114 279 "keijo" 2 270
+33428 12 "keijo" 44 4400
+13465 245 "Pentti Perareika" 1 150
+21897 24 "pera" 1 100
+39556 1 "a" 2 160
