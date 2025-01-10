@@ -1,2 +1,4 @@
 Varausnumero Huonenumero Varaajannimi Yot Hinta
 23194 12 "Keijo Kuokka" 2 180
+19764 5 "Pentti joki-kela" 1 80
+42169 38 "Juti Timo" 1 135

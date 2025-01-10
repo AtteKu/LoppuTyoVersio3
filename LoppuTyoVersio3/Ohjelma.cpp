@@ -1,5 +1,5 @@
 // Atte Kukkonen
-// Harjoitustyö 2024, C++-ohjelmoinnin perusteet, TAMK
+// Harjoitustyö 2024, C++-ohjelmoinnin perusteet, TAMK, testi
 
 
 #include <iostream>
